@@ -1,9 +1,2 @@
-alpine
-calico/cni:v3.26.4
-calico/cni:v3.26.4
-calico/node:v3.26.4
-calico/node:v3.26.4
-calico/kube-controllers:v3.26.4
-alpine:3.20.0
-ubuntu:24.04
-ubuntu:22.04
+nginx:1.24.0-alpine3.17
+nginx:1.22.1-alpine
