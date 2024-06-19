@@ -1,5 +1,6 @@
-tdengine/tdengine:3.3.1.0
-tdengine/tdengine:3.3.0.3
-tdengine/tdengine:3.3.0.0
-tdengine/tdengine:3.2.3.0
-tdengine/tdengine:3.2.2.0
+gitlab-jh:16.10.7
+gitlab-jh:16.11.4
+gitlab-jh:15.11.13
+gitlab-jh:16.8.7
+gitlab-jh:15.9.8
+gitlab-jh:14.9.5
