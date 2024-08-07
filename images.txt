@@ -1,1 +1,1 @@
-frolvlad/alpine-glibc:glibc-2.34
+ubuntu:20.04
