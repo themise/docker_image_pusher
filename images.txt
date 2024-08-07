@@ -1,1 +1,1 @@
-openresty/openresty:1.25.3.2-buster-fat
+frolvlad/alpine-glibc:glibc-2.34
